@@ -1,0 +1,286 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[The] wanton wenches of Wiltshire[.] Being a pleasant discourse between four young females, as they sat together in a convenient place to scatter their water, who being overheard by two young-men, occasioned the whole discovery of their discourse. Tune of, The maids a washing. This may be printed, R.P.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685-1688?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06741</idno>
+            <idno type="STC">Wing W719</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[492]</idno>
+            <idno type="EEBO-CITATION">99887939</idno>
+            <idno type="PROQUEST">ocm99887939</idno>
+            <idno type="VID">183595</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06741)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183595)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[386])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[The] wanton wenches of Wiltshire[.] Being a pleasant discourse between four young females, as they sat together in a convenient place to scatter their water, who being overheard by two young-men, occasioned the whole discovery of their discourse. Tune of, The maids a washing. This may be printed, R.P.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Back, at the Black Boy on London-Bridge near the Draw-bridge.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1685-1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Verse: "Now young batchelors all draw near ..."</note>
+                  <note>Imperfect: trimmed at head with some loss of text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-01</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="492" facs="tcp:183595:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 17 -->
+            <head>Wanton wenches of Wiltſhire</head>
+            <argument>
+               <p>
+                  <hi>Being a Pleaſant Diſcourſe between Fo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r young Females, as they Sat together in a convenient place to ſcatter their Water, who being over-heard by Two young-men, occaſioned the whole Diſcovery of their Diſcourſe.</hi>
+               </p>
+            </argument>
+            <opener>Tune of, <hi>The Maids a Waſhing.</hi>
+            </opener>
+            <div type="permission_to_print">
+               <p>This may be printed,</p>
+               <closer>
+                  <signed>R. P.</signed>
+               </closer>
+            </div>
+            <div type="body_of_ballad">
+               <p>
+                  <figure>
+                     <figDesc>depiction of a woman</figDesc>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <figDesc>depiction of a woman</figDesc>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <figDesc>depiction of a woman with bared breasts</figDesc>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <figDesc>depiction of a woman with flower</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>NOw young Batchelo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s all draw near,</l>
+                  <l>And you a pleaſant Diſcourſe ſhall here:</l>
+                  <l>Of four young Damſels all méeting &amp; greeting</l>
+                  <l>Each other together in fair <hi>VViltſhire:</hi>
+                  </l>
+                  <l>All complain'd at a ſorrowful rate,</l>
+                  <l>Becauſe they could not enjoy a mate</l>
+                  <l>Whilſt they made their ſad pittiful moan</l>
+                  <l>They thought they were private and all alone.</l>
+               </lg>
+               <lg>
+                  <l>One ſaid, I muſt depart a ſpace,</l>
+                  <l>For here I am in a woful caſe,</l>
+                  <l>I find I'm ready to ſcatter my water,</l>
+                  <l>Therefore I muſt find a convenient place,</l>
+                  <l>where no young man may ſee what I do,</l>
+                  <l>And then i'le ſtraight ways return to you;</l>
+                  <l>But unto this they would no ways agree,</l>
+                  <l>They'd all go together for Company.</l>
+               </lg>
+               <lg>
+                  <l>Hand in hand then a way they go,</l>
+                  <l>Like loving Siſters all in a row,</l>
+                  <l>Two young men hearing their tattle &amp; prattle,</l>
+                  <l>Reſolved ſome more of this Gigg to know:</l>
+                  <l>Therefore watching them whither they went,</l>
+                  <l>Theſe two young men by joynt conſent,</l>
+                  <l>Both reſolved in Ambuſh to lye,</l>
+                  <l>Where both words and actions they might deſcry.</l>
+               </lg>
+               <p>
+                  <figure>
+                     <figDesc>depiction of a man with bared chest</figDesc>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <figDesc>depiction of a man in an interior arch</figDesc>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <figDesc>depiction of a fortified house</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <l>My ſweet Siſter, ſays one I find,</l>
+                  <l>Night and day ſuch a pain in my mind,</l>
+                  <l>Becauſe I am not the bleſſing poſſeſſing,</l>
+                  <l>Which I might enjoy if young men were kind,</l>
+                  <l>How I tremble while here I reveal</l>
+                  <l>The inward torments which now I feel,</l>
+                  <l>But yet in vain do I utter my grief,</l>
+                  <l>Since no one will yield me the leaſt relief.</l>
+               </lg>
+               <lg>
+                  <l>Once I heard of a woman old,</l>
+                  <l>Whoſe face was wrinkl'd, and blood near cold,</l>
+                  <l>But yet I tell ye, ſhe crying, replying</l>
+                  <l>The ſorrow I ſuffer cannot be told;</l>
+                  <l>You may eaſily gueſs at the cauſe,</l>
+                  <l>And need not ſtand very long to pauſe:</l>
+                  <l>Now if old Women ſuch paſſion expreſs,</l>
+                  <l>I hope a young Damoſel can do no leſs.</l>
+               </lg>
+               <lg>
+                  <l>Said the <hi>Second,</hi> young ſweet-fac'd <hi>John,</hi>
+                  </l>
+                  <l>You know he is a young luſty-man,</l>
+                  <l>I dearly love him, provoke him, and ſtroke him,</l>
+                  <l>Yet he will not Kiſs me do what I can</l>
+                  <l>I have fed him with Cuſtards and Cream,</l>
+                  <l>And all things that can pleaſant ſeem;</l>
+                  <l>Nay, call him my honey, my love and dear,</l>
+                  <l>And Yet I proteſt I am ne'r the near.</l>
+               </lg>
+               <lg>
+                  <l>Said the <hi>Third,</hi> I am pure Cole-black,</l>
+                  <l>And that you know has a dainty Smack,</l>
+                  <l>Beſides, I know I am witty and pritty</l>
+                  <l>Then why ſhould not I have thoſe joys I <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>Being youthful, and juſt in my prime,</l>
+                  <l>And loth to loſe my Teeming time,</l>
+                  <l>Yet brisk young Gallants no kindneſs will</l>
+                  <l>What reaſon have I to be ſerved ſo.</l>
+               </lg>
+               <lg>
+                  <l>Then the <hi>fourth</hi> did begin to prate,</l>
+                  <l>And that was bony, brisk bounſing <hi>Kate,</hi>
+                  </l>
+                  <l>Who did with fury, behold 'um and told'</l>
+                  <l>That ſhe was ſtark mad, for a man-lik<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>Tho' I'm ſhorter then others may be</l>
+                  <l>Yet wherefore ſhould this hinder me?</l>
+                  <l>Behold I am of a delicate Brown,</l>
+                  <l>No Colour is better in all the Town.</l>
+               </lg>
+               <lg>
+                  <l>Nay, the worſt of us all might ſerve,</l>
+                  <l>For ſurely Batchellors don't deſerve</l>
+                  <l>To have our Favour who ſpight us, &amp; ſlight</l>
+                  <l>And ſuffer poor Damſels to pine and ſtarve;</l>
+                  <l>But we'l tattle no longer of this,</l>
+                  <l>So e'ry Siſter ſat down to P————s,</l>
+                  <l>But yet before they had perfectly done,</l>
+                  <l>The Young-men they laught, &amp; the Wenches</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for</hi> J. Back, <hi>at the Black Boy on</hi> London-Bridge near the Draw-Bridge.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
